@@ -1,6 +1,5 @@
 <h1>Router Configuration for multiple networks</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project demonstrates how to configure a single router to handle multiple networks using Cisco Packet Tracer. It includes step-by-step visual instructions and screenshots showing how to:
